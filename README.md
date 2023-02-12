@@ -1,1 +1,1 @@
-This is a local change
+Conflict Resolved
